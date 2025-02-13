@@ -133,6 +133,7 @@
 	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210501431",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:05:01.431Z",
+	"dcterms:modified": "2025-02-13T14:21:48.857Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -173,7 +174,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/eiamjw",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "Martin Wynne"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
