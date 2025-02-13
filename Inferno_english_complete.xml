@@ -52,10 +52,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210324902",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210324902",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:03:24.902Z",
-	"dcterms:modified": "2024-09-29T20:03:24.902Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -66,10 +65,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210324902#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210324902#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -77,10 +76,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210324902#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210324902#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/byline/persName"
 		}
@@ -95,7 +94,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -131,10 +130,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210501431",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210501431",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:05:01.431Z",
-	"dcterms:modified": "2024-09-29T20:05:01.431Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -145,10 +143,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210501431#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210501431#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -156,10 +154,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210501431#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210501431#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[5]/l[2]/persName"
 		}
@@ -174,7 +172,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -210,10 +208,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?place_annotation_20240929210708100",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?place_annotation_20240929210708100",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:07:08.100Z",
-	"dcterms:modified": "2024-09-29T20:07:08.100Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -224,10 +221,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?place_annotation_20240929210708100#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?place_annotation_20240929210708100#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -235,10 +232,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?place_annotation_20240929210708100#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?place_annotation_20240929210708100#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[15]/l[3]/placeName"
 		}
@@ -253,7 +250,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -289,10 +286,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210803424",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210803424",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:08:03.424Z",
-	"dcterms:modified": "2024-09-29T20:08:03.424Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -303,10 +299,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210803424#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210803424#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -314,10 +310,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210803424#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210803424#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[19]/l/persName"
 		}
@@ -332,7 +328,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -368,10 +364,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210853133",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210853133",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:08:53.133Z",
-	"dcterms:modified": "2024-09-29T20:08:53.133Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -382,10 +377,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210853133#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210853133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -393,10 +388,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210853133#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210853133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[19]/l[2]/persName"
 		}
@@ -411,7 +406,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -447,10 +442,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210905562",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210905562",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:09:05.562Z",
-	"dcterms:modified": "2024-09-29T20:09:05.562Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -461,10 +455,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210905562#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210905562#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -472,10 +466,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210905562#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210905562#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[19]/l[2]/persName[2]"
 		}
@@ -490,7 +484,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -526,10 +520,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210937620",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210937620",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:09:37.620Z",
-	"dcterms:modified": "2024-09-29T20:09:37.620Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -540,10 +533,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210937620#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210937620#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -551,10 +544,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929210937620#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929210937620#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[19]/l[3]/persName"
 		}
@@ -569,7 +562,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -605,10 +598,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211012357",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211012357",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:10:12.357Z",
-	"dcterms:modified": "2024-09-29T20:10:12.357Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -619,10 +611,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211012357#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211012357#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -630,10 +622,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211012357#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211012357#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[20]/l/persName"
 		}
@@ -648,7 +640,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -684,10 +676,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211043111",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211043111",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:10:43.111Z",
-	"dcterms:modified": "2024-09-29T20:10:43.111Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -698,10 +689,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211043111#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211043111#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -709,10 +700,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211043111#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211043111#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[20]/l/persName[2]"
 		}
@@ -727,7 +718,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -763,10 +754,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211115801",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211115801",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:11:15.801Z",
-	"dcterms:modified": "2024-09-29T20:11:15.801Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -777,10 +767,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211115801#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211115801#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -788,10 +778,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211115801#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211115801#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[20]/l[2]/persName"
 		}
@@ -806,7 +796,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -842,10 +832,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211530519",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211530519",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:15:30.519Z",
-	"dcterms:modified": "2024-09-29T20:15:30.519Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -856,10 +845,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211530519#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211530519#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -867,10 +856,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211530519#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211530519#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[20]/l[3]/persName"
 		}
@@ -885,7 +874,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -921,10 +910,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?place_annotation_20240929211652534",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?place_annotation_20240929211652534",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:16:52.534Z",
-	"dcterms:modified": "2024-09-29T20:16:52.534Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -935,10 +923,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?place_annotation_20240929211652534#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?place_annotation_20240929211652534#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -946,10 +934,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?place_annotation_20240929211652534#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?place_annotation_20240929211652534#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[26]/l[3]/placeName"
 		}
@@ -964,7 +952,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1000,10 +988,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211728004",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211728004",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:17:28.004Z",
-	"dcterms:modified": "2024-09-29T20:17:28.004Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1014,10 +1001,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211728004#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211728004#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1025,10 +1012,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211728004#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211728004#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[30]/l/persName"
 		}
@@ -1043,7 +1030,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1079,10 +1066,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211741974",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211741974",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:17:41.974Z",
-	"dcterms:modified": "2024-09-29T20:17:41.974Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1093,10 +1079,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211741974#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211741974#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1104,10 +1090,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211741974#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211741974#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[30]/l[2]/persName"
 		}
@@ -1122,7 +1108,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1158,10 +1144,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211804726",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211804726",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:18:04.726Z",
-	"dcterms:modified": "2024-09-29T20:18:04.726Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1172,10 +1157,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211804726#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211804726#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1183,10 +1168,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211804726#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211804726#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[30]/l[3]/persName"
 		}
@@ -1201,7 +1186,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1237,10 +1222,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211911945",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211911945",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:19:11.945Z",
-	"dcterms:modified": "2024-09-29T20:19:11.945Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1251,10 +1235,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211911945#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211911945#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1262,10 +1246,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929211911945#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929211911945#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[30]/l[3]/persName[2]"
 		}
@@ -1280,7 +1264,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1316,10 +1300,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212020273",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212020273",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:20:20.273Z",
-	"dcterms:modified": "2024-09-29T20:20:20.273Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1330,10 +1313,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212020273#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212020273#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1341,10 +1324,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212020273#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212020273#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[41]/l/persName"
 		}
@@ -1359,7 +1342,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1395,10 +1378,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212035442",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212035442",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:20:35.442Z",
-	"dcterms:modified": "2024-09-29T20:20:35.442Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1409,10 +1391,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212035442#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212035442#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1420,10 +1402,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212035442#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212035442#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[41]/l[2]/persName"
 		}
@@ -1438,7 +1420,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1474,10 +1456,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212050475",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212050475",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:20:50.475Z",
-	"dcterms:modified": "2024-09-29T20:20:50.475Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1488,10 +1469,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212050475#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212050475#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1499,10 +1480,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212050475#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212050475#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[41]/l[2]/persName[2]"
 		}
@@ -1517,7 +1498,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1553,10 +1534,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212111442",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212111442",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:21:11.442Z",
-	"dcterms:modified": "2024-09-29T20:21:11.442Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1567,10 +1547,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212111442#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212111442#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1578,10 +1558,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212111442#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212111442#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[41]/l[3]/persName"
 		}
@@ -1596,7 +1576,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1632,10 +1612,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212157668",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212157668",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:21:57.668Z",
-	"dcterms:modified": "2024-09-29T20:21:57.668Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1646,10 +1625,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212157668#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212157668#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1657,10 +1636,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212157668#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212157668#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[42]/l/persName"
 		}
@@ -1675,7 +1654,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1711,10 +1690,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212216032",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212216032",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:22:16.032Z",
-	"dcterms:modified": "2024-09-29T20:22:16.032Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1725,10 +1703,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212216032#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212216032#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1736,10 +1714,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212216032#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212216032#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[42]/l/persName[2]"
 		}
@@ -1754,7 +1732,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1790,10 +1768,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212330383",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212330383",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:23:30.383Z",
-	"dcterms:modified": "2024-09-29T20:23:30.383Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1804,10 +1781,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212330383#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212330383#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1815,10 +1792,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212330383#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212330383#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[42]/l[2]/persName"
 		}
@@ -1833,7 +1810,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1869,10 +1846,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212405783",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212405783",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:24:05.783Z",
-	"dcterms:modified": "2024-09-29T20:24:05.783Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1883,10 +1859,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212405783#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212405783#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1894,10 +1870,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212405783#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212405783#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[42]/l[3]/persName"
 		}
@@ -1912,7 +1888,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -1948,10 +1924,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212447108",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212447108",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:24:47.108Z",
-	"dcterms:modified": "2024-09-29T20:24:47.108Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1962,10 +1937,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212447108#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212447108#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1973,10 +1948,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212447108#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212447108#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[43]/l/persName"
 		}
@@ -1991,7 +1966,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2027,10 +2002,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212848777",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212848777",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:28:48.777Z",
-	"dcterms:modified": "2024-09-29T20:28:48.777Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2041,10 +2015,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212848777#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212848777#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2052,10 +2026,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212848777#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212848777#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[43]/l/persName[2]"
 		}
@@ -2070,7 +2044,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2106,10 +2080,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212948939",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212948939",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:29:48.939Z",
-	"dcterms:modified": "2024-09-29T20:29:48.939Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2120,10 +2093,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212948939#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212948939#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2131,10 +2104,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929212948939#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212948939#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[43]/l[2]/persName"
 		}
@@ -2149,7 +2122,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2185,10 +2158,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213009112",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213009112",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:30:09.112Z",
-	"dcterms:modified": "2024-09-29T20:30:09.112Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2199,10 +2171,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213009112#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213009112#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2210,10 +2182,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213009112#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213009112#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[43]/l[2]/persName[2]"
 		}
@@ -2228,7 +2200,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2264,10 +2236,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213050371",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213050371",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:30:50.371Z",
-	"dcterms:modified": "2024-09-29T20:30:50.371Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2278,10 +2249,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213050371#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213050371#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2289,10 +2260,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213050371#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213050371#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[43]/l[2]/persName[3]"
 		}
@@ -2307,7 +2278,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2343,10 +2314,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213127157",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213127157",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:31:27.157Z",
-	"dcterms:modified": "2024-09-29T20:31:27.157Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2357,10 +2327,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213127157#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213127157#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2368,10 +2338,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213127157#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213127157#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[43]/l[2]/persName[4]"
 		}
@@ -2386,7 +2356,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2422,10 +2392,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213156205",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213156205",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:31:56.205Z",
-	"dcterms:modified": "2024-09-29T20:31:56.205Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2436,10 +2405,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213156205#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213156205#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2447,10 +2416,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213156205#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213156205#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[43]/l[3]/persName"
 		}
@@ -2465,7 +2434,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2501,10 +2470,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213222951",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213222951",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:32:22.951Z",
-	"dcterms:modified": "2024-09-29T20:32:22.951Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2515,10 +2483,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213222951#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213222951#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2526,10 +2494,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213222951#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213222951#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[45]/l[2]/persName"
 		}
@@ -2544,7 +2512,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2580,10 +2548,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213238367",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213238367",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:32:38.367Z",
-	"dcterms:modified": "2024-09-29T20:32:38.367Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2594,10 +2561,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213238367#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213238367#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2605,10 +2572,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213238367#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213238367#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[45]/l[2]/persName[2]"
 		}
@@ -2623,7 +2590,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2659,10 +2626,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213304904",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929220648081",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-09-29T20:33:04.904Z",
-	"dcterms:modified": "2024-09-29T21:06:48.081Z",
+	"dcterms:created": "2024-09-29T21:06:48.081Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2673,10 +2639,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213304904#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929220648081#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2684,10 +2650,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213304904#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929220648081#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[46]/l/persName"
 		}
@@ -2702,7 +2668,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2738,10 +2704,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213342044",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213342044",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:33:42.044Z",
-	"dcterms:modified": "2024-09-29T20:33:42.044Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2752,10 +2717,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213342044#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213342044#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2763,10 +2728,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213342044#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213342044#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[46]/l[2]/persName"
 		}
@@ -2781,7 +2746,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2817,10 +2782,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213410007",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213410007",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:34:10.007Z",
-	"dcterms:modified": "2024-09-29T20:34:10.007Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2831,10 +2795,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213410007#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213410007#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2842,10 +2806,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213410007#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213410007#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[46]/l[2]/persName[2]"
 		}
@@ -2860,7 +2824,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2896,10 +2860,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213445466",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213445466",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:34:45.466Z",
-	"dcterms:modified": "2024-09-29T20:34:45.466Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2910,10 +2873,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213445466#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213445466#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2921,10 +2884,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213445466#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213445466#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[46]/l[2]/persName[3]"
 		}
@@ -2939,7 +2902,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -2975,10 +2938,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213524412",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213524412",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:35:24.412Z",
-	"dcterms:modified": "2024-09-29T20:35:24.412Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2989,10 +2951,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213524412#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213524412#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3000,10 +2962,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213524412#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213524412#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[46]/l[3]/persName"
 		}
@@ -3018,7 +2980,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3054,10 +3016,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213549121",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213549121",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:35:49.121Z",
-	"dcterms:modified": "2024-09-29T20:35:49.121Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3068,10 +3029,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213549121#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213549121#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3079,10 +3040,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213549121#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213549121#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[46]/l[3]/persName[2]"
 		}
@@ -3097,7 +3058,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3133,10 +3094,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213626098",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213626098",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:36:26.098Z",
-	"dcterms:modified": "2024-09-29T20:36:26.098Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3147,10 +3107,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213626098#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213626098#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3158,10 +3118,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213626098#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213626098#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[46]/l[3]/persName[3]"
 		}
@@ -3176,7 +3136,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3212,10 +3172,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213810829",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213810829",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:38:10.829Z",
-	"dcterms:modified": "2024-09-29T20:38:10.829Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3226,10 +3185,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213810829#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213810829#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3237,10 +3196,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213810829#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213810829#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[47]/l[2]/persName"
 		}
@@ -3255,7 +3214,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3291,10 +3250,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213855177",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213855177",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:38:55.177Z",
-	"dcterms:modified": "2024-09-29T20:38:55.177Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3305,10 +3263,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213855177#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213855177#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3316,10 +3274,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213855177#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213855177#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[47]/l[2]/persName[2]"
 		}
@@ -3334,7 +3292,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3370,10 +3328,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213937438",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213937438",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:39:37.438Z",
-	"dcterms:modified": "2024-09-29T20:39:37.438Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3384,10 +3341,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213937438#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213937438#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3395,10 +3352,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213937438#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213937438#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[47]/l[3]/persName"
 		}
@@ -3413,7 +3370,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3449,10 +3406,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213958740",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213958740",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:39:58.740Z",
-	"dcterms:modified": "2024-09-29T20:39:58.740Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3463,10 +3419,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213958740#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213958740#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3474,10 +3430,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929213958740#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213958740#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[47]/l[3]/persName[2]"
 		}
@@ -3492,7 +3448,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3528,10 +3484,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214012846",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214012846",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:40:12.846Z",
-	"dcterms:modified": "2024-09-29T20:40:12.846Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3542,10 +3497,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214012846#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214012846#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3553,10 +3508,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214012846#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214012846#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[47]/l[3]/persName[3]"
 		}
@@ -3571,7 +3526,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3607,10 +3562,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214059110",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214059110",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:40:59.110Z",
-	"dcterms:modified": "2024-09-29T20:40:59.110Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3621,10 +3575,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214059110#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214059110#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3632,10 +3586,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214059110#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214059110#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[48]/l/persName"
 		}
@@ -3650,7 +3604,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3686,10 +3640,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214127045",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214127045",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:41:27.045Z",
-	"dcterms:modified": "2024-09-29T20:41:27.045Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3700,10 +3653,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214127045#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214127045#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3711,10 +3664,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214127045#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214127045#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[48]/l/persName[2]"
 		}
@@ -3729,7 +3682,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3765,10 +3718,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214239814",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214239814",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:42:39.814Z",
-	"dcterms:modified": "2024-09-29T20:42:39.814Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3779,10 +3731,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214239814#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214239814#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3790,10 +3742,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214239814#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214239814#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[48]/l[2]/persName"
 		}
@@ -3808,7 +3760,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3844,10 +3796,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214254860",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214254860",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:42:54.860Z",
-	"dcterms:modified": "2024-09-29T20:42:54.860Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3858,10 +3809,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214254860#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214254860#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3869,10 +3820,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214254860#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214254860#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[48]/l[2]/persName[2]"
 		}
@@ -3887,7 +3838,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -3923,10 +3874,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214308119",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214308119",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:43:08.119Z",
-	"dcterms:modified": "2024-09-29T20:43:08.119Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -3937,10 +3887,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214308119#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214308119#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3948,10 +3898,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214308119#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929214308119#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[48]/l[2]/persName[3]"
 		}
@@ -3966,7 +3916,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -4002,10 +3952,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214319727",
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929220747112",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-09-29T20:43:19.727Z",
-	"dcterms:modified": "2024-09-29T21:07:47.112Z",
+	"dcterms:created": "2024-09-29T21:07:47.112Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -4016,10 +3965,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214319727#Target",
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929220747112#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4027,10 +3976,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jamescummings/LWC_TEI2024/main/Inferno/Inferno_english.xml?person_annotation_20240929214319727#Selector",
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929220747112#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[48]/l[3]/persName"
 		}
@@ -4045,8 +3994,92 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20250213142038176",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-13T14:20:38.176Z",
+	"dcterms:modified": "2025-02-13T14:20:38.176Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/eiamjw",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Martin Wynne"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20250213142038176#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20250213142038176#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg[11]/l/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q1398",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -4129,7 +4162,7 @@
             </lg>
 
             <lg n="11">
-               <l n="31">To me the Master good: “Thou dost not ask</l>
+               <l n="31">To me <persName key="Virgil" ref="http://www.wikidata.org/entity/Q1398" cert="medium" type="both">the Master</persName> good: “Thou dost not ask</l>
                <l n="32">What spirits these, which thou beholdest, are?</l>
                <l n="33">Now will I have thee know, ere thou go farther,</l>
             </lg>
