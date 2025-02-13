@@ -224,6 +224,7 @@
 	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?place_annotation_20240929210708100",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:07:08.100Z",
+	"dcterms:modified": "2025-02-13T14:22:47.823Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -264,7 +265,21 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/eiamjw",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "Martin Wynne"
+			}
+		}
+	],
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
         </rdf:Description>
       
@@ -4201,7 +4216,7 @@
             <lg n="15">
                <l n="43">Great grief seized on my heart when this I heard,</l>
                <l n="44">Because some people of much worthiness</l>
-               <l n="45">I knew, who in that <placeName key="limbo" ref="http://www.wikidata.org/entity/Q270710">Limbo</placeName> were suspended.</l>
+               <l n="45">I knew, who in that <placeName key="limbo" ref="http://www.wikidata.org/entity/Q270710" cert="high">Limbo<precision match="@ref" precision="high"/></placeName> were suspended.</l>
             </lg>
 
             <lg n="16">
