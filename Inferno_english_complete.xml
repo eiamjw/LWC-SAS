@@ -2904,6 +2904,7 @@
 	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929213445466",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:34:45.466Z",
+	"dcterms:modified": "2025-02-13T14:31:09.989Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -2944,7 +2945,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/eiamjw",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "Martin Wynne"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -4494,7 +4507,7 @@
 
             <lg n="46">
                <l n="136"><persName key="Democritus" ref="http://www.wikidata.org/entity/Q41980">Democritus</persName>, who puts the world on chance,</l>
-               <l n="137"><persName key="Diogenes of Sinope" ref="http://www.wikidata.org/entity/Q59180">Diogenes</persName>, <persName key="Anaxagoras" ref="http://www.wikidata.org/entity/Q83041">Anaxagoras</persName>, and <persName key="Thales" ref="http://www.wikidata.org/entity/Q36303">Thales</persName>,</l>
+               <l n="137"><persName key="Diogenes of Sinope" ref="http://www.wikidata.org/entity/Q59180">Diogenes</persName>, <persName key="Anaxagoras" ref="http://www.wikidata.org/entity/Q83041">Anaxagoras</persName>, and <persName key="Thales" ref="http://www.wikidata.org/entity/Q36303" facs="https://commons.wikimedia.org/wiki/File:Illustrerad_Verldshistoria_band_I_Ill_107.svg">Thales</persName>,</l>
                <l n="138"><persName key="Zeno of Elea" ref="http://www.wikidata.org/entity/Q132157">Zeno</persName>, <persName key="Empedocles" ref="http://www.wikidata.org/entity/Q83375">Empedocles</persName>, and <persName key="Heraclitus" ref="http://www.wikidata.org/entity/Q41155">Heraclitus</persName>;</l>
             </lg>
 
