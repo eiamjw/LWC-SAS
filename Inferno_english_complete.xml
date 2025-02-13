@@ -1799,6 +1799,7 @@
 	"id": "https://raw.githubusercontent.com/eiamjw/LWC-SAS/main/Inferno_english_complete.xml?person_annotation_20240929212330383",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-09-29T20:23:30.383Z",
+	"dcterms:modified": "2025-02-13T14:29:23.759Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jamescummings",
 		"@type": [
@@ -1839,7 +1840,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/eiamjw",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "Martin Wynne"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -4450,7 +4463,7 @@
             </lg>
 
             <lg n="41">
-               <l n="121">I saw <persName key="Elektra" ref="http://www.wikidata.org/entity/Q131651">Electra</persName> with companions many,</l>
+               <l n="121">I saw <persName key="Elektra" ref="http://www.wikidata.org/entity/Q131651">Ele<abbr cert="high" facs="https://en.wikipedia.org/wiki/Electra#/media/File:1869_Frederic_Leighton_-_Electra_at_the_Tomb_of_Agamemnon.jpg" generatedBy="human" xml:space="default"/>ctra</persName> with companions many,</l>
                <l n="122">’Mongst whom I knew both <persName key="Hector" ref="http://www.wikidata.org/entity/Q159666">Hector</persName> and <persName key="Aeneas" ref="http://www.wikidata.org/entity/Q82732">Aeneas</persName>,</l>
                <l n="123"><persName key="Julius Caesar" ref="http://www.wikidata.org/entity/Q1048">Caesar</persName> in armour with gerfalcon eyes;</l>
             </lg>
